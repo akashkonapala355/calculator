@@ -63,6 +63,8 @@ Tkinter (GUI Library) 💻
 
 🖼️ Screenshots
 
+https://github.com/akashkonapala355/calculator/blob/main/calculator.png
+
 📚 License
 
 This project is open-source under the MIT License.
